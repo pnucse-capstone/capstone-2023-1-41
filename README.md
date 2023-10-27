@@ -126,7 +126,10 @@ It's Design is **ChatGPT-like style** that intuitviely indicates that it's an AI
 
 ### Introduction Video
 
-> 유튜브 업로드 후 추가 예정입니다.
+[![Introduction Video](https://img.youtube.com/vi/gSZ3K-4pN6w/mqdefault.jpg)](https://youtu.be/gSZ3K-4pN6w)
+
+> You can see Introduction video in youtube.  
+> Please click image.
 
 ## 5. 설치 및 사용법
 
